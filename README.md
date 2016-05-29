@@ -73,4 +73,4 @@ http://mudandovidas.esy.es/ -> Atualmente sendo desenvolvido
 
 Possuo um canal no youtube onde mostro como desenvolver aplicativos em HTML5
 Canal: <http://www.youtube.com/channel/UC-8goXO6sjFuIbanvBd-jfA?sub_confirmation=1>
-# WordPress
+
