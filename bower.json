@@ -1,0 +1,27 @@
+{
+  "name": "WordPress",
+  "authors": [
+    "Sergio1981 <scdesenvolvedor@gmail.com>"
+  ],
+  "description": "Aplicação para Editora Abril - Qu4tro Rodas/Servoce IT",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "resolutions": {
+    "angular": "1.2.16"
+  },
+  "dependencies": {
+    "bootstrap": "^3.3.6",
+    "angular": "1.2.16",
+    "angular-bootstrap": "^1.3.3",
+    "angular-ui-router": "^0.3.0"
+  }
+}
