@@ -7,6 +7,9 @@ body{
 	padding:0;
 	text-align:center;
 }
+li{
+	cursor:pointer;
+}
 #btn-menu, #btn-menu img, #menu-of-canvas, #btn-search{
 	display:none;
 }
@@ -552,6 +555,7 @@ body{
 		z-index:999999;
 	}
 	#menu-of-canvas section ul{
+		width:90%;
 		font-size:1.5em;
 		text-align:justify;
 		margin-left:20px;
@@ -561,6 +565,9 @@ body{
 	}
 	#menu-of-canvas section ul li{
 		padding-top:30px;
+	}
+	#menu-of-canvas > section > ul > li:hover{
+		cursor:pointer;
 	}
 	.header-container{
 		margin:0;
@@ -717,6 +724,9 @@ body{
 		display:block;
 		float:left;
 	}
+	#menu-of-canvas > section > ul > li:hover{
+		cursor:pointer;
+	}
 
 	.content .banner-topo img{
 		width:100%;
@@ -757,7 +767,6 @@ body{
 
 }
 @media screen and (max-width: 411px){
-
 	#btn-menu{
 		color:#ffffff;
 		float:right;
@@ -787,6 +796,7 @@ body{
 		z-index:999999;
 	}
 	#menu-of-canvas section ul{
+		width:90%;
 		font-size:1.5em;
 		text-align:justify;
 		margin-left:20px;
@@ -796,6 +806,9 @@ body{
 	}
 	#menu-of-canvas section ul li{
 		padding-top:30px;
+	}
+	#menu-of-canvas > section > ul > li:hover{
+		cursor:pointer;
 	}
 	.content .banner-topo img{
 		width:100%;
